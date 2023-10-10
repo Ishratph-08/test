@@ -1,0 +1,75 @@
+
+[
+   
+
+    {
+    "id":1,
+    "image": "/images/a1.png ",
+    "title" :"Wedding",
+    "price":"Price:$5000",
+    "cardBg" : "#93c5fd",
+    "titleTextcolor" : "#1d4ed8",
+    "description" :"Do you want your dream wedding turn to be a perfect and timeless wedding? This package is designed for the couple who has already selected various components of their wedding.",
+    "descriptionTextCol":""
+  
+    },
+
+    {
+    "id":2,
+    "image": "/images/a2.png ",
+    "title" :" Birthday",
+    "price":"Price:$2500",
+    "cardBg" : "#93c5fd",
+    "titleTextcolor" : "#1d4ed8",
+    "description" :"We have Cocktail Courier.The birthday cake of cocktail is flavored like vanilla cake. ",
+    "descriptionTextCol":""
+  
+    },
+
+    {
+    "id":3,
+    "image": "/images/a3.png ",
+    "title" :"Anniversary ",
+    "price":"Price:$3000",
+    "cardBg" : "#93c5fd",
+    "titleTextcolor" : "#1d4ed8",
+    "description" :"Dreaming of simple, chic decorative touches or a total jaw dropping transformation? ",
+    "descriptionTextCol":""
+    },
+
+    {
+    "id":4,
+    "image": "/images/a4.png ",
+    "title" :"Engagement",
+    "price":"Price:$4000",
+    "cardBg" : "#93c5fd",
+    "titleTextcolor" : "#1d4ed8",
+    "description" :"How would you like to experience a cherished moment that transcends to everlasting memories? ",
+    "descriptionTextCol":""
+  
+    },
+
+    {
+    "id":5,
+    "image": "/images/a5.png ",
+    "title" :"Retirement",
+    "price":"Price:$1000",
+    "cardBg" : "#93c5fd",
+    "titleTextcolor" : "#1d4ed8",
+    "description" :"Despite restrictions on in-person gatherings, people are finding ways to gather for life events — whether virtually or from a safe distance.",
+    "descriptionTextCol" :""
+  
+    },
+
+    {
+    "id":6,
+    "image": "/images/a6.png ",
+    "title":"Baby Shower",
+    "price":"Price:$3000",
+    "cardBg" : "#93c5fd",
+    "titleTextcolor" : "#1d4ed8",
+    "description" :"People have hosted drive-through baby showers and birthday parades, and event planners are sending pop-up party kits to help people celebrate at home. ",
+    "descriptionTextCol" :""
+
+    }
+]
